@@ -9,3 +9,24 @@ Os principais pacotes utilizados estão listados no arquivo `requirements.txt`. 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Estrutura do Repositório
+
+.
+├── requirements.txt
+├── README.md
+├── Processo Seletivo/
+│   └── PS_CIS.ipynb
+└── Trainee/
+    ├── Módulo_1/
+    │   ├── Atividades/
+    │   │   └── Atividade Classificação/
+    |   |   └── Atividade Regressão/
+    │   └── Materiais/
+    │       └── Aula Inicial.pdf
+    ├── Módulo_2/
+    │   ├── Atividades/
+    │   │   └── Atividade Clustering/
+    │   └── Materiais/
+    │       └── Periodo2.pdf
+    └── ...
