@@ -12,6 +12,7 @@ pip install -r requirements.txt
 
 ## Estrutura do Repositório
 
+```text
 .
 ├── requirements.txt
 ├── README.md
@@ -20,8 +21,8 @@ pip install -r requirements.txt
 └── Trainee/
     ├── Módulo_1/
     │   ├── Atividades/
-    │   │   └── Atividade Classificação/
-    |   |   └── Atividade Regressão/
+    │   │   ├── Atividade Classificação/
+    │   │   └── Atividade Regressão/
     │   └── Materiais/
     │       └── Aula Inicial.pdf
     ├── Módulo_2/
@@ -30,3 +31,4 @@ pip install -r requirements.txt
     │   └── Materiais/
     │       └── Periodo2.pdf
     └── ...
+```
